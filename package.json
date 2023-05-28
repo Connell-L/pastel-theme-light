@@ -1,0 +1,21 @@
+{
+  "name": "queso",
+  "displayName": "pastel-light",
+  "description": "Pastel Theme is a soothing and refreshing light theme designed exclusively for Visual Studio Code. Immerse yourself in a gentle and harmonious coding environment with its carefully curated pastel color palette. Pastel Theme offers a perfect blend of tranquility and readability, creating a serene atmosphere that inspires productivity and focus. Let Pastel Theme bring a touch of elegance and calmness to your coding journey, making every line of code a joy to write.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pastel Theme Light",
+        "uiTheme": "vs",
+        "path": "./themes/Pastel Theme Light-color-theme.json"
+      }
+    ]
+  }
+}
